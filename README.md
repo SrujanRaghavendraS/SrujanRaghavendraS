@@ -46,8 +46,10 @@
 ![NoSQL](https://img.shields.io/badge/-NoSQL-E34F26?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
+
 ## 📊 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/u/Srujan_Raghavendra_S?theme=light&font=Montserrat)](https://leetcode.com/u/Srujan_Raghavendra_S/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Srujan_Raghavendra_S?theme=light&font=Montserrat)](https://leetcode.com/u/Srujan_Raghavendra_S/)
+
 
 ## 📈 GitHub Stats  
 <p align="center">
