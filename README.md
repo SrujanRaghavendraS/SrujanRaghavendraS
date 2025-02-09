@@ -5,8 +5,8 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 **Final Year Computer Science Student** at **BNM Institute of Technology, Bengaluru (GPA: 9.01/10)**
-- 💻 **Software Engineer Intern** at **Subhanu Technologies (Sep '24 – Jan '25)**
+- 🎓 **Final Year Computer Science Student** at **BNM Institute of Technology, Bengaluru **
+- 💻 **Former Software Engineer Intern** at **Subhanu Technologies**
 - 🏆 Passionate about **Software Development, Data Analysis, and AI/ML**
 - 📢 Open to **job opportunities in software engineering, data analysis, and AI-based projects**
 - 🌍 Actively contributing to open-source projects and tech communities
